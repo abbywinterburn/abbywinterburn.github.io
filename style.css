@@ -1,0 +1,43 @@
+
+h1 {
+   font-size: 60px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 30px;
+}
+
+nav {
+    font-size: 45px;
+    font-style: bold;
+}
+
+li {
+    font-size: 30px;
+    margin: 20px;
+    padding: 0px; 
+}
+
+a {
+    font-size: 30px;
+}
+
+body 
+{ 
+font: 62.5%/1.5  Georgia, serif; 
+background-color: #f3cfc6; 
+color: #000000;     
+text-align:center; 
+padding: 10em;
+margin: 10px;
+
+} 
+
